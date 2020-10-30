@@ -1,0 +1,7 @@
+C:\Users\gayat\OneDrive\Desktop\DevOpsExample\FirstAzureApp\FirstAzureApp\bin\Debug\FirstAzureApp.exe.config
+C:\Users\gayat\OneDrive\Desktop\DevOpsExample\FirstAzureApp\FirstAzureApp\bin\Debug\FirstAzureApp.exe
+C:\Users\gayat\OneDrive\Desktop\DevOpsExample\FirstAzureApp\FirstAzureApp\bin\Debug\FirstAzureApp.pdb
+C:\Users\gayat\OneDrive\Desktop\DevOpsExample\FirstAzureApp\FirstAzureApp\obj\Debug\FirstAzureApp.csprojAssemblyReference.cache
+C:\Users\gayat\OneDrive\Desktop\DevOpsExample\FirstAzureApp\FirstAzureApp\obj\Debug\FirstAzureApp.csproj.CoreCompileInputs.cache
+C:\Users\gayat\OneDrive\Desktop\DevOpsExample\FirstAzureApp\FirstAzureApp\obj\Debug\FirstAzureApp.exe
+C:\Users\gayat\OneDrive\Desktop\DevOpsExample\FirstAzureApp\FirstAzureApp\obj\Debug\FirstAzureApp.pdb
