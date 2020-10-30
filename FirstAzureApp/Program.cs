@@ -11,6 +11,8 @@ namespace FirstAzureApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Line two");
+            Console.WriteLine("Done with three");
             Console.ReadKey();
         }
     }
